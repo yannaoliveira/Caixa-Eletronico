@@ -1,0 +1,4 @@
+{"conta": 3020, "cpf": "012345674890", "dtNascimento": "20/06/1989", "nome": "José Junior", "senha": 123456, "limiteCheque": 500,00}
+{"conta": 2958, "cpf": "01234567890", "dtNascimento": "20/06/1989", "nome": "Teste Silva", "limiteCheque": 500,0, "senha": 123456}
+{"conta": 2192, "cpf": "01234567890", "dtNascimento": "20/06/1989", "nome": "Teste", "limiteCheque": 500,0, "senha": 123456}
+{"conta": 1606, "cpf": "01234567890", "dtNascimento": "20/06/1989", "nome": "teste", "limiteCheque": 500,0, "senha": 123456}
